@@ -5,3 +5,14 @@
     padding: 0;
     border: none;
 }
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* logo and nav bar */
+
+#logo {
+    height: 75px;
+    float: left;
+}
