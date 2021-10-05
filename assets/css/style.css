@@ -10,9 +10,41 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* logo and nav bar */
+/* logo */
 
 #logo {
     height: 75px;
     float: left;
+}
+
+/* nav bar and links */
+
+#menu {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 120%;
+}
+
+#logo, #menu {
+    line-height: 75px;
+}
+
+#menu li {
+    list-style-type: none;
+    float: right;
+    margin-right: 50px;
+    font-weight: bold;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #552583;
+}
+
+#menu a:hover {
+    color: #FDB927;
+    border-bottom: 1px solid #FDB927;
+}
+
+.active {
+    border-bottom: 1px solid #FDB927;
 }
