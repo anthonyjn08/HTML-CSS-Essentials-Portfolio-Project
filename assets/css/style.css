@@ -48,3 +48,17 @@ body {
 .active {
     border-bottom: 1px solid #FDB927;
 }
+
+/* kobe banner */
+
+#kobe-banner {
+    height: 500px;
+    margin-top: 80px;
+    clear: both;
+}
+
+#hof-image {
+    background: url('../images/kobebanner.jpg') no-repeat center center;
+    height: 500px;
+    width: auto;
+}
