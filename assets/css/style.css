@@ -10,6 +10,15 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* headings */
+
+h1, h2, h3 {
+    font-family: 'Quicksand', sans-serif;
+    text-transform: uppercase;
+    color: #552583;
+    text-decoration: underline #FDB927;
+}
+
 /* logo */
 
 #logo {
@@ -62,3 +71,6 @@ body {
     height: 500px;
     width: auto;
 }
+
+/* biography */ 
+
