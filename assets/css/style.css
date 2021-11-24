@@ -72,5 +72,12 @@ h1, h2, h3 {
     width: auto;
 }
 
+/* biography */ 
 
+.biography {
+    margin: 50px 20% 0 20%;
+}
 
+.biography h1,h2,p {
+    margin-bottom: 25px;
+}
