@@ -81,3 +81,18 @@ h1, h2, h3 {
 .biography h1,h2,p {
     margin-bottom: 25px;
 }
+
+/* footer */
+
+footer {
+    height: 100px;
+}
+
+.social-links {
+    text-align: center;
+}
+
+.social-links li {
+    display: inline;
+    margin-right: 25px;
+}
