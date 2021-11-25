@@ -96,3 +96,17 @@ footer {
     display: inline;
     margin-right: 25px;
 }
+
+/* career achievement */
+
+#career {
+    margin: 50px 30% 0 30%;
+}
+
+#career ul {
+    margin-bottom: 25px;
+}
+
+#career li {
+    margin-bottom: 12.5px;
+}
