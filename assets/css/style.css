@@ -75,7 +75,7 @@ h1, h2, h3 {
 /* biography */ 
 
 .biography {
-    margin: 50px 20% 0 20%;
+    margin: 50px 30% 0 30%;
 }
 
 h1,h2,h3,p {
@@ -109,4 +109,31 @@ footer {
 
 #career li {
     margin-bottom: 12.5px;
+}
+
+/* career stats */
+
+#stats {
+    margin: 50px 30% 0 30%;
+}
+
+#glossary {
+    margin: 50px 30% 0 30%;
+}
+
+#glossary p {
+    font-size: 80%;
+}
+
+table {
+    margin: 25px 20%;
+    border: 1px solid #552583;
+    width: 60%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th, td {
+    border-left: 1px solid #552583;
+    overflow: hidden;
 }
