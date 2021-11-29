@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <meta name="description" content="A site to learn about Kobe Bryant">
+    <meta name="keywords" content="kobe, bryant, la lakers, nba, basketball">
+    <title>The life of Kobe Bryant</title>
+</head>
+<body>
+    <header>
+        <a href="index.html">
+            <img id="logo" src="/assets/images/kobebryantlogo.jpg" alt="kobe bryant mamba logo">
+        </a>
+        <nav id="menu">
+            <ul>
+                <li>
+                    <a class="active"  href="competition.html"><i class="fas fa-basketball-ball"></i> Competition <i class="fas fa-basketball-ball"></i></a>
+                </li>
+                <li>
+                    <a href="career-stats.html">Career Stats</a>
+                </li>
+                <li>
+                    <a href="career-achievements.html">Career Achievements</a>
+                </li>
+                <li>
+                    <a  href="index.html">Home</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section id=kobe-banner>
+        <div id=hof-image></div>
+    </section>
+    <section id="competition">
+        <form method="POST" action="https://formdump.codeinstitute.net/">
+            <h2>Competition</h1>
+            <p>Win tickets to a LA Lakers game</p>
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="first_name" class="text-field" required>
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="last_name" class="text-field" required>
+            <label for="email"></label>
+            <input type="email" id="email" name="email_address" class="text-field" required>
+            <label for="age">Age (minimum age 18 years)</label>
+            <input type="number" id="age" min="18" required>
+            <p>What season did Kobe change his jersey number from 8 to 24?</p>
+            <label for="05-06">05/06</label>
+            <input type="radio" id="05-06" name="jersey" value="05/06" required>
+            <label for="06-07">06/07</label>
+            <input type="radio" id="06-07" name="jersey" value="06/07" required>
+            <label for="08-09">08/09</label>
+            <input type="radio" id="08-09" name="jersey" value="08/09" required>
+
+        </form>
+    </section>
+    <footer>
+        <ul class="social-links">
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Kobe_Bryant" target="_blank" rel="noopener" aria-label="visit the Kobe Bryant Wiki Page">Kobe Bryant Wikipedia</a>
+            </li>
+            <li>
+                <a href="https://mambaandmambacita.org/" target="_blank" rel="noopener" aria-label="visit the Mamba & Mambacita Foundation page">Mamba & Mambacita Foundation</a>
+            </li>
+            <li>
+                <a href="https://www.nba.com/kobe-bryant-tribute" target="_blank" rel="noopener" aria-label="Visit the NBA.com tribute page">NBA.com tribute</a>
+            </li>
+        </ul>
+    </footer>
+    <script src="https://kit.fontawesome.com/0d9d3cf7f6.js" crossorigin="anonymous"></script>
+</body>
+</html>
