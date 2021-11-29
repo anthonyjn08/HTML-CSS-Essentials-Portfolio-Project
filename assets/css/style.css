@@ -133,6 +133,10 @@ table {
     border-collapse: collapse;
 }
 
+th {
+    border: 1px solid #552583;
+}
+
 th, td {
     border-left: 1px solid #552583;
     overflow: hidden;
