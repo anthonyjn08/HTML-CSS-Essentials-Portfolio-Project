@@ -141,3 +141,50 @@ th, td {
     border-left: 1px solid #552583;
     overflow: hidden;
 }
+
+/* competition */
+
+#competition {
+    margin: 50px 30% 50px 30%;
+    background-image:  url('../images/kobe_8-vs-24.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+
+.comp-form {
+    background-color: rgba(253, 185, 39, 0.5);
+    color: #000;
+    padding: 20px;
+}
+
+.text-field {
+    background: rgba(255, 255, 255, 0.73);
+    color: black;
+    width: 80%;
+    height: 25px;
+    border: 1px solid #552583;
+    margin: 5px 0 20px 0;
+}
+
+.number-field {
+    background: rgba(255, 255, 255, 0.73);
+    color: black;
+    width: 15%;
+    height: 25px;
+    border: 1px solid #552583;
+    margin: 5px 0 20px 0;
+}
+
+.block {
+    display: block;
+}
+
+.submission {
+    margin-top: 25px;
+    height: 35px;
+    width: 75px;
+    display: block;
+    background-color: #552583;
+    color: #FDB927;
+}
