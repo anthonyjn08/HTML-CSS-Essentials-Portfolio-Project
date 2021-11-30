@@ -74,7 +74,7 @@ h1, h2, h3 {
 
 /* biography */ 
 
-.biography {
+.introduction, .biography {
     margin: 50px 25% 0 25%;
 }
 
@@ -82,9 +82,15 @@ h1,h2,h3,p {
     margin-bottom: 25px;
 }
 
+.introduction img {
+    margin:auto;
+    display: block;
+}
+
 .biography img {
     margin:auto;
     display: block;
+    margin-bottom: 25px;
 }
 
 figcaption {
@@ -121,6 +127,11 @@ footer {
     margin-bottom: 12.5px;
 }
 
+iframe {
+    margin: auto;
+    display: block;
+}
+
 /* career stats */
 
 #stats, #glossary {
@@ -152,7 +163,6 @@ th, td {
     margin: 50px 25% 0 25%;
     height: 400px;
     display: inline-block;
-    object-fit: contain;
 }
 
 .left-8-24 {
@@ -185,6 +195,7 @@ th, td {
 .comp-form {
     background-color: rgba(253, 185, 39, 0.5);
     color: #000;
+    font-weight: 600;
     padding: 20px;
 }
 
@@ -217,4 +228,10 @@ th, td {
     display: block;
     background-color: #552583;
     color: #FDB927;
+}
+
+.submission:hover {
+    background-color: #FDB927;
+    color: #552583;
+    border: 1px solid #552583;
 }
