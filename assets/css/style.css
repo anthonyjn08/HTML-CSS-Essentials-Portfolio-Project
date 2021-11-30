@@ -235,3 +235,35 @@ th, td {
     color: #552583;
     border: 1px solid #552583;
 }
+
+/* media queries */
+
+/* for screens 1200px and smaller */
+
+@media screen and (max-width: 1200px) {
+
+    /* index */
+
+    .introduction, .biography {
+        margin: 50px 15% 0 15%;
+    }
+
+    /* career achievments */
+
+    #career {
+        margin: 50px 15% 0 15%;
+    }
+
+    /* career stats */
+
+    #stats, #glossary, #kobe-8-24 {
+        margin: 50px 15% 0 15%;
+    }
+
+    /* competition */
+    
+    #competition {
+        margin: 50px 15% 50px 15%;
+    }
+
+}
