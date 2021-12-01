@@ -10,19 +10,35 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* headings */
+/* section margins */
 
-h1, h2, h3 {
+.margin {
+    margin: 1rem 25% 0 25%;
+}
+
+/* headings and paragraphs */
+
+h1,h2,h3 {
     font-family: 'Quicksand', sans-serif;
     text-transform: uppercase;
     color: #552583;
     text-decoration: underline #FDB927;
 }
 
+h1,h2,h3,p {
+    margin-bottom: 1.5rem;
+}
+
+/* text alignment */
+
+.center-text {
+    text-align: center;
+}
+
 /* logo */
 
 #logo {
-    height: 75px;
+    height: 4.5rem;
     float: left;
 }
 
@@ -30,17 +46,17 @@ h1, h2, h3 {
 
 #menu {
     font-family: 'Quicksand', sans-serif;
-    font-size: 120%;
+    font-size: 1.2rem;
 }
 
 #logo, #menu {
-    line-height: 75px;
+    line-height: 4.5rem;
 }
 
 #menu li {
     list-style-type: none;
     float: right;
-    margin-right: 50px;
+    margin-right: 3rem;
     font-weight: bold;
 }
 
@@ -61,26 +77,18 @@ h1, h2, h3 {
 /* kobe banner */
 
 #kobe-banner {
-    height: 500px;
-    margin-top: 80px;
+    height: 31rem;
+    margin-top: 5rem;
     clear: both;
 }
 
 #hof-image {
     background: url('../images/kobebanner.jpg') no-repeat center center;
-    height: 500px;
+    height: 31rem;
     width: auto;
 }
 
 /* biography */ 
-
-.introduction, .biography {
-    margin: 50px 25% 0 25%;
-}
-
-h1,h2,h3,p {
-    margin-bottom: 25px;
-}
 
 .introduction img {
     margin:auto;
@@ -90,22 +98,17 @@ h1,h2,h3,p {
 .biography img {
     margin:auto;
     display: block;
-    margin-bottom: 25px;
+    margin-bottom: 1.5rem;
 }
 
 figcaption {
-    text-align: center;
-    font-size: 90%;
+    font-size: 0.9rem;
 }
 
 /* footer */
 
 footer {
-    height: 100px;
-}
-
-.social-links {
-    text-align: center;
+    height: 6rem;
 }
 
 .social-links li {
@@ -114,10 +117,6 @@ footer {
 }
 
 /* career achievement */
-
-#career {
-    margin: 50px 25% 0 25%;
-}
 
 #career ul {
     margin-bottom: 25px;
@@ -135,10 +134,6 @@ iframe {
 
 /* career stats */
 
-#stats, #glossary {
-    margin: 50px 25% 0 25%;
-}
-
 #glossary p {
     font-size: 80%;
 }
@@ -147,7 +142,6 @@ table {
     margin: 25px 20%;
     border: 1px solid #552583;
     width: 60%;
-    text-align: center;
     border-collapse: collapse;
 }
 
@@ -157,36 +151,32 @@ th {
 
 th, td {
     border-left: 1px solid #552583;
-    overflow: hidden;
 }
 
 #kobe-8-24 {
-    margin: 50px 25% 0 25%;
-    height: 400px;
+    height: 30rem;
     display: inline-block;
 }
 
 .left-8-24 {
-    width: 30%;
+    width: 20%;
     float: left;
-    text-align: center;
 }
 
 .right-8-24 {
-    width: 30%;
+    width: 20%;
     float: right;
-    text-align: center;
 }
 
 .center-8-24 {
-    width: 40%;
+    width: 60%;
     margin: auto;
+    float: left;
 }
 
 /* competition */
 
 #competition {
-    margin: 50px 25% 50px 25%;
     background-image:  url('../images/kobe_8-vs-24.png');
     background-repeat: no-repeat;
     background-position: center center;
@@ -200,22 +190,20 @@ th, td {
     padding: 20px;
 }
 
-.text-field {
+.input-field {
     background: rgba(255, 255, 255, 0.73);
-    color: black;
-    width: 80%;
+    color: #000000;
     height: 25px;
     border: 1px solid #552583;
     margin: 5px 0 20px 0;
 }
 
+.text-field {
+    width: 80%;
+}
+
 .number-field {
-    background: rgba(255, 255, 255, 0.73);
-    color: black;
     width: 15%;
-    height: 25px;
-    border: 1px solid #552583;
-    margin: 5px 0 20px 0;
 }
 
 .block {
@@ -243,27 +231,21 @@ th, td {
 
 @media screen and (max-width: 1200px) {
 
-    /* index */
+    /* margins */
 
-    .introduction, .biography {
-        margin: 50px 15% 0 15%;
+    .margin {
+        margin: 1rem 15% 0 15%;
+    }   
+}
+
+/* for screens 900px and smaller */
+
+@media screen and (max-width: 900px) {
+    .margin {
+        margin: 1rem 5% 0 5%;   
     }
 
-    /* career achievments */
-
-    #career {
-        margin: 50px 15% 0 15%;
-    }
-
-    /* career stats */
-
-    #stats, #glossary, #kobe-8-24 {
-        margin: 50px 15% 0 15%;
-    }
-
-    /* competition */
-    
-    #competition {
-        margin: 50px 15% 50px 15%;
+    img {
+        max-width: 15rem;
     }
 }
