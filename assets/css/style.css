@@ -130,6 +130,7 @@ footer {
 iframe {
     margin: auto;
     display: block;
+    border: 0px;
 }
 
 /* career stats */
@@ -265,5 +266,4 @@ th, td {
     #competition {
         margin: 50px 15% 50px 15%;
     }
-
 }
