@@ -78,7 +78,7 @@ h1,h2,h3,p {
     border-bottom: 1px solid #FDB927;
 }
 
-/* kobe banner */
+/* hero image */
 
 #hero-outer {
     height: 31rem;
@@ -91,6 +91,21 @@ h1,h2,h3,p {
     background: url('../images/kobebanner.jpg') no-repeat center center;
     height: 31rem;
     width: 100%;
+}
+
+#mamba-text {
+    font-size: 1.5rem;
+    position: absolute;
+    height: 9rem;
+    width: 10rem;
+    background-color: rgba(253, 185, 39, 0.5);
+    text-align: center;
+    bottom: 30px;
+    right: 150px;
+}
+
+#mamba-text h1{
+    text-decoration: none;
 }
 
 /* biography */ 
@@ -305,7 +320,7 @@ th, td {
     
     #hero-image { 
         background-size: contain;
-    }   
+    }    
 
     /* images */
 
