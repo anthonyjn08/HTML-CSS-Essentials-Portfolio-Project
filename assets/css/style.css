@@ -236,26 +236,43 @@ th, td {
 
     .margin {
         margin: 1rem 15% 0 15%;
-    }   
+    }
+
+    #hero-image { 
+        background-size: contain;
+    }
 }
 
 /* for screens 900px and smaller */
 
 @media screen and (max-width: 900px) {
+
+    /* margin */
+
     .margin {
         margin: 5rem 5% 0 5%;   
     }
+
+    /* hero image */
 
     #hero-outer {
         height: 20rem;
         width: 100%;
         clear: both;
-        position: justify; */
     }
     
     #hero-image { 
         background-size: contain;
     }
+
+    /* images */
+
+    img {
+        max-width: 25rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
 
     img {
         max-width: 15rem;
