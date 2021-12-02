@@ -53,11 +53,15 @@ h1,h2,h3,p {
     line-height: 4.5rem;
 }
 
+#menu ul {
+    float: right;
+}
+
 #menu li {
     list-style-type: none;
-    float: right;
-    margin-right: 3rem;
+   margin-right: 3rem;
     font-weight: bold;
+    display: inline;
 }
 
 #menu a {
@@ -253,6 +257,16 @@ th, td {
         margin: 5rem 5% 0 5%;   
     }
 
+    /* nav bar */
+
+    #menu li {
+        clear: left;
+        float: left;
+        margin-left: 2rem;
+        margin-bottom: 1.5rem;
+        line-height: 2rem;
+    }
+
     /* hero image */
 
     #hero-outer {
@@ -291,7 +305,8 @@ th, td {
     
     #hero-image { 
         background-size: contain;
-    }
+    }   
+}
 
     /* images */
 
