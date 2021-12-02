@@ -274,7 +274,35 @@ th, td {
 
 @media screen and (max-width: 600px) {
 
+    /* margin */
+
+    .margin {
+        margin-top: 8rem;
+        width: 95%
+    }
+
+    /* hero image */
+
+    #hero-outer {
+        height: 15rem;
+        width: 100%;
+        clear: both;
+    }
+    
+    #hero-image { 
+        background-size: contain;
+    }
+
+    /* images */
+
     img {
         max-width: 15rem;
+    }
+
+    /* iframe */
+
+    iframe {
+        width: 20rem;
+        height: auto;
     }
 }
