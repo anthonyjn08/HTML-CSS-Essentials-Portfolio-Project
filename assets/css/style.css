@@ -76,16 +76,17 @@ h1,h2,h3,p {
 
 /* kobe banner */
 
-#kobe-banner {
+#hero-outer {
     height: 31rem;
-    margin-top: 5rem;
+    width: 100%;
     clear: both;
+    position: relative;
 }
 
-#hof-image {
+#hero-image { 
     background: url('../images/kobebanner.jpg') no-repeat center center;
     height: 31rem;
-    width: auto;
+    width: 100%;
 }
 
 /* biography */ 
@@ -242,7 +243,18 @@ th, td {
 
 @media screen and (max-width: 900px) {
     .margin {
-        margin: 1rem 5% 0 5%;   
+        margin: 5rem 5% 0 5%;   
+    }
+
+    #hero-outer {
+        height: 20rem;
+        width: 100%;
+        clear: both;
+        position: justify; */
+    }
+    
+    #hero-image { 
+        background-size: contain;
     }
 
     img {
