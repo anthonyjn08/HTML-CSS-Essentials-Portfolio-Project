@@ -178,17 +178,17 @@ th, td {
     display: inline-block;
 }
 
-.left-8-24 {
+#left-8-24 {
     width: 20%;
     float: left;
 }
 
-.right-8-24 {
+#right-8-24 {
     width: 20%;
     float: right;
 }
 
-.center-8-24 {
+#center-8-24 {
     width: 60%;
     margin: auto;
     float: left;
@@ -269,6 +269,25 @@ th, td {
         height: 3rem;
         bottom: 7rem;
         right: 5rem;
+    }
+
+    /* Kobe #8 vs #24 */
+
+    #kobe-8-24 {
+        height: 70rem;
+    }
+
+    #left-8-24, #right-8-24 {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #center-8-24 {
+        clear: both;
+        width: 100%;
+        padding: 0;
+        float: left;
     }
 }
 
