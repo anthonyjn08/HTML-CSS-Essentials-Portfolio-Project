@@ -138,11 +138,11 @@ footer {
 
 /* career achievement */
 
-#career ul {
+.career ul {
     margin-bottom: 1.5rem;
 }
 
-#career li {
+.career li {
     margin-bottom: 0.8rem;
 }
 
