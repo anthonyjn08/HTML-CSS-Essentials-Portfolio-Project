@@ -315,9 +315,9 @@ th, td {
     /* nav bar */
 
     #menu li {
-        clear: left;
-        float: left;
-        margin-left: 2rem;
+        clear: right;
+        float: right;
+        margin-right: 2rem;
         margin-bottom: 1.5rem;
         line-height: 2rem;
     }
