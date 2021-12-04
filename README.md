@@ -78,7 +78,8 @@ This page has two sections. Career Achievments and Career Highlights
 ### **Competiton Page**
 
 * This page features a form for users to complete to enter a competition.
-* The form is made up with text and number input fields, with each being required and three radio buttons, with one needing to be choosen.
+* The form consists of text, email and number input fields and three radio buttons.
+* The input fields require the correct format to be entered, and the radio buttons require one to be selected before submission.
 * The form keeps the colour theme going with yellow and purple featuring heavily and the background for the form has an image of Byrant's two jersey numbers.
 
 ### **Footer**
