@@ -53,3 +53,19 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 
 * Helicopter accident.
 * Hall of Fame induction
+
+### **Career Achievements Page**
+
+This page has two sections. Career Achievments and Career Highlights
+
+#### **Career Achievements**
+
+* This section looks at what Bryant achieved throughout his proffesional career.
+* It uses a list structre to breakdown his achievments.
+
+#### **Career Highlights**
+
+* This section features a date ordered list.
+* It details some of the high points of Bryant's career at that point such as NBA Championship wins, scoring career highs and his dunk contest win.
+* I added some videos of the highlighs to break up the list and give the users a view into some of these highpoints.
+
