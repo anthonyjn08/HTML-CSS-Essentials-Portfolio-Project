@@ -80,3 +80,8 @@ This page has two sections. Career Achievments and Career Highlights
 * This page features a form for users to complete to enter a competition.
 * The form is made up with text and number input fields, with each being required and three radio buttons, with one needing to be choosen.
 * The form keeps the colour theme going with yellow and purple featuring heavily and the background for the form has an image of Byrant's two jersey numbers.
+
+### **Footer**
+
+* The footer has some links to various external sites, Kobe Bryant's Wikipedia page, the Mamba & Mambacita Foundation created alongside his wife and the NBA.com Tribute page.
+* The colours used match the yellow and purple scheme used throughout the site.
