@@ -4,6 +4,10 @@ The aim of my site is to give people a look into the career and also small look 
 
 ## **Features**
 
+**Colour Scheme**
+
+When I decided on the colour scheme, I wanted to keep it simple but also represent the LA Laker colours. Bryant was a Lakers fan and spent his entire career there. The colours associated with the Lakers are purple and yellow. The navigaton bar links are purple, with the active page having a yellow underline. Navigation links also turn yellow when being hovered over. Headings h2 to h4 also have similar styling, with the text being purple with a yellow underline.
+
 **Navigation Bar**
 
 * The Navigation Bar is identical on all 4 pages to keep the appearance consistent.
