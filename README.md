@@ -69,3 +69,8 @@ This page has two sections. Career Achievments and Career Highlights
 * It details some of the high points of Bryant's career at that point such as NBA Championship wins, scoring career highs and his dunk contest win.
 * I added some videos of the highlighs to break up the list and give the users a view into some of these highpoints.
 
+### **Career Statistics Page**
+
+* This page features content showing Bryants career averages for both the regular season and the playoffs in table format.
+* It also compares his career statistics whilst wearing his two jersey numbers; number 8 and number 24. This is also in table format, with an image either side depicting the two stages of his career.
+* At the bottom, there is a glossary to explain the abbrieviations used on the page.
