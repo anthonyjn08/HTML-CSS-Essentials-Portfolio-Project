@@ -74,3 +74,9 @@ This page has two sections. Career Achievments and Career Highlights
 * This page features content showing Bryants career averages for both the regular season and the playoffs in table format.
 * It also compares his career statistics whilst wearing his two jersey numbers; number 8 and number 24. This is also in table format, with an image either side depicting the two stages of his career.
 * At the bottom, there is a glossary to explain the abbrieviations used on the page.
+
+### **Competiton Page**
+
+* This page features a form for users to complete to enter a competition.
+* The form is made up with text and number input fields, with each being required and three radio buttons, with one needing to be choosen.
+* The form keeps the colour theme going with yellow and purple featuring heavily and the background for the form has an image of Byrant's two jersey numbers.
