@@ -90,3 +90,27 @@ This page has two sections. Career Achievments and Career Highlights
 ## **Testing**
 
 I've tested the site using Chrome, Chrome Dev, Internet Explorer and Microsoft Edge. I have used the developer tools in Chrome, Chrome Dev and Edge to simulate various screen sizes and devices. I have also tested the site on the OnePlus 9 pro mobile device and Microsoft Surface Pro 7 tablet. The only difference I found when testing across the various browsers was Internet Explorer where some styling elements did not display as intended, such as font-sizes and heading underlining. Despite this, the website still functioned as normal and was responsive to different resolutions when the Internet Explorer window was resized.
+
+### **Validator Testing**
+
+**HTML**
+
+I used the W3C validator found at https://validator.w3.org/ to test my HTML code. I came across one warning and two errors all of which have now been resolved.
+
+* The warning was found in my Hero Image section.This was due to a lack of heading in the section. I had not yet chosen the heading I wanted to use with my Hero Image. I have now chosen and used a heading and this is no longer an issue.
+* The first error I found was on the Career Achievements page. This was caused by the iframe element from the embedded Youtube videos being coded as child elements of an unorganised list. This was an error on my part as the iframe elements were meant to be included as part of the relevant li element for the list. Once this was done, the error was resolved
+* The second error I encountered was also on the Career Achievments page. The embedded code for Youtube videos included the frameborder attribute which is now obsolete and css should be used for this instead. I have removed the frameborder attribute from the html code and added the relevant code to the css styling, this resolved the issue.
+
+### **Validator Testing**
+
+**HTML**
+
+I used the W3C validator found at https://validator.w3.org/ to test my HTML code. I came across one warning and two errors all of which have now been resolved.
+
+* The warning was found in my Hero Image section.This was due to a lack of heading in the section. I had not yet chosen the heading I wanted to use with my Hero Image. I have now chosen and used a heading and this is no longer an issue.
+* The first error I found was on the Career Achievements page. This was caused by the iframe element from the embedded Youtube videos being coded as child elements of an unorganised list. This was an error on my part as the iframe elements were meant to be included as part of the relevant li element for the list. Once this was done, the error was resolved
+* The second error I encountered was also on the Career Achievments page. The embedded code for Youtube videos included the frameborder attribute which is now obsolete and css should be used for this instead. I have removed the frameborder attribute from the html code and added the relevant code to the css styling, this resolved the issue.
+
+**CSS**
+
+For CSS testing I used the Jigsaw validator found at https://jigsaw.w3.org/css-validator. There were no errors found when passing the code through.
