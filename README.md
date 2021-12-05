@@ -27,32 +27,23 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 
 #### **Early Life section**
 
-* Early years in Philadelphia.
-* The family's move to Italy.
-* The return to Philadelphia.
+* In this section, I cover Bryant's early life in Philadelphia, the familys move to Italy and return to Philadelphia.
 
 #### **High School Section**
 
-* The early unsuccessful year.
-* The State Championship.
-* The decision to go from High School direct to the NBA.
+* In this section, I cover Bryant's high school journey from the unsuccessful first season to winning the State Championship in his final season.
 
 #### **Professional Career**
 
-* The NBA draft and trade.
-* The threepeat Championship years.
-* Summary of USA National team, two jersey numbers.
+* In this section, I cover Bryant's professional career, the NBA Championships, the MVP awards and his final season.
 
 #### **Off The Court**
 
-* Dear Basketball short film and other TV appearances.
-* Unsuccessful music career.
-* Sexual assualt case.
+* In this section, I cover Bryant's off the court life, from his short animated film and TV appearances, failed music career and his sexual assault case.
 
 #### **Death**
 
-* Helicopter accident.
-* Hall of Fame induction
+* In this section, I cover the accident which resulted in his death.
 
 ### **Career Achievements Page**
 
@@ -97,8 +88,8 @@ I've tested the site using Chrome, Chrome Dev, Internet Explorer and Microsoft E
 
 I used the W3C validator found at https://validator.w3.org/ to test my HTML code. I came across one warning and two errors all of which have now been resolved.
 
-* The warning was found in my Hero Image section.This was due to a lack of heading in the section. I had not yet chosen the heading I wanted to use with my Hero Image. I have now chosen and used a heading and this is no longer an issue.
-* The first error I found was on the Career Achievements page. This was caused by the iframe element from the embedded Youtube videos being coded as child elements of an unorganised list. This was an error on my part as the iframe elements were meant to be included as part of the relevant li element for the list. Once this was done, the error was resolved
+* The warning was found in my Hero Image section. This was due to a lack of heading in the section. I had not yet chosen the heading I wanted to use with my Hero Image. I have now chosen and used a heading and this is no longer an issue.
+* The first error I found was on the Career Achievements page. This was caused by the iframe element from the embedded Youtube videos being coded as child elements of the unorganised list. This was an error on my part as the iframe elements were meant to be included as part of the relevant li element for the list. Once this was done, the error was resolved
 * The second error I encountered was also on the Career Achievments page. The embedded code for Youtube videos included the frameborder attribute which is now obsolete and css should be used for this instead. I have removed the frameborder attribute from the html code and added the relevant code to the css styling, this resolved the issue.
 
 **CSS**
