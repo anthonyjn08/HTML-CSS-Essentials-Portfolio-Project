@@ -140,3 +140,7 @@ The competition.html content is a question from my knowledge of Kobe Bryant, alt
 **Competiton.html**
 
 * All videos are embedded from youtube.com.
+
+**Career-stats.html**
+
+* The images in the Kobe Bryant: 8 vs 24 section were taken from [ESPN](https://www.espn.com/espn/feature/story/_/id/29682794/kobe-bryant-two-legendary-nba-careers-no-8-no-24).
