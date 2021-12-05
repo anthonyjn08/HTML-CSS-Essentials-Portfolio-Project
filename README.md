@@ -136,3 +136,7 @@ The competition.html content is a question from my knowledge of Kobe Bryant, alt
 * The image in the Early Life section was taken from [cbsnews.com](https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fkobe-bryant-italy-reggio-emilia-joe-bryant-01-27-2020%2F&psig=AOvVaw1AMv2b4WdbzPGJRBdX5IVQ&ust=1638828765987000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjJ0ZnXzfQCFQAAAAAdAAAAABAD).
 * The image in the High School section was take from [inquirer.com](https://www.inquirer.com/sixers/kobe-bryant-high-school-basketball-coach-lower-merion-pennsylvania-20200320.html).
 * The image in the Proffesional Career section was taken from [bleacherreport.com](https://bleacherreport.com/articles/2733163-kobe-bryant-lakers-jersey-retirement-statue).
+
+**Competiton.html**
+
+* All videos are embedded from youtube.com.
