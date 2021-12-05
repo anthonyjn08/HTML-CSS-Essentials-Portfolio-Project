@@ -121,5 +121,18 @@ The link for the deployed site is - [Kobe Bryant: LA Lakers Legend](https://anth
 
 * The vast majority of the index.html content came from the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page, although as a fan of Kobe and basketball some of the content was recalled from my own knowledge.
 * As with the index.html page, the vast majority of content from the career-achievements.html page came from the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page with some content from my own knowledge.
-* The career-stats.html content for the regular season and playoffs came from [Basketball Reference](https://www.basketball-reference.com/players/b/bryanko01.html) whilst the content for the Kobe Bryant: 8 vs 24 came from [ESPN](https://www.espn.com/espn/feature/story/_/id/29682794/kobe-bryant-two-legendary-nba-careers-no-8-no-24).
+* The career-stats.html content for the regular season and playoffs came from [Basketball-Reference.com](https://www.basketball-reference.com/players/b/bryanko01.html) whilst the content for the Kobe Bryant: 8 vs 24 came from [ESPN](https://www.espn.com/espn/feature/story/_/id/29682794/kobe-bryant-two-legendary-nba-careers-no-8-no-24).
 The competition.html content is a question from my knowledge of Kobe Bryant, although reference to the change of jersey number change can also be found on the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page.
+
+#### **Media**
+
+**All Pages**
+
+* Hero Image - the Hero image was taken from [basketballrevolution.es](https://www.basketrevolution.es/players/kobe-bryant?___store=english1)
+
+**Index.html**
+
+* The image in the Kobe Bryant Biography section was taken from [aminoapps.com](https://aminoapps.com/c/hoops/page/blog/3-ways-kobe-bryant-couldve-had-6-rings/N4RC_MuaNq53MPp28J8GPmeBboXW14x).
+* The image in the Early Life section was taken from [cbsnews.com](https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fkobe-bryant-italy-reggio-emilia-joe-bryant-01-27-2020%2F&psig=AOvVaw1AMv2b4WdbzPGJRBdX5IVQ&ust=1638828765987000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjJ0ZnXzfQCFQAAAAAdAAAAABAD).
+* The image in the High School section was take from [inquirer.com](https://www.inquirer.com/sixers/kobe-bryant-high-school-basketball-coach-lower-merion-pennsylvania-20200320.html).
+* The image in the Proffesional Career section was taken from [bleacherreport.com](https://bleacherreport.com/articles/2733163-kobe-bryant-lakers-jersey-retirement-statue).
