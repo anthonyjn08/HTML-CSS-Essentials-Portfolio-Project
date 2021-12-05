@@ -86,3 +86,7 @@ This page has two sections. Career Achievments and Career Highlights
 
 * The footer has some links to various external sites, Kobe Bryant's Wikipedia page, the Mamba & Mambacita Foundation created alongside his wife and the NBA.com Tribute page.
 * The colours used match the yellow and purple scheme used throughout the site.
+
+## **Testing**
+
+I've tested the site using Chrome, Chrome Dev, Internet Explorer and Microsoft Edge. I have used the developer tools in Chrome, Chrome Dev and Edge to simulate various screen sizes and devices. I have also tested the site on the OnePlus 9 pro mobile device and Microsoft Surface Pro 7 tablet. The only difference I found when testing across the various browsers was Internet Explorer where some styling elements did not display as intended, such as font-sizes and heading underlining. Despite this, the website still functioned as normal and was responsive to different resolutions when the Internet Explorer window was resized.

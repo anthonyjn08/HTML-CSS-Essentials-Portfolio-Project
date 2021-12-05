@@ -285,6 +285,8 @@ th, td {
 
     /* Kobe #8 vs #24 */
 
+    /* The code used for this section of the @media query was taken from the Love Running project */
+
     #kobe-8-24 {
         height: 70rem;
     }
