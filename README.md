@@ -113,4 +113,13 @@ The page was deployed on Github pages. The procedure followed was:
 3. In the source section, chose the Main branch from the drop-down menu and then press save.
 4. The page will then display a message to indicate that the sit has been successfully deployed to GitHub pages and also provide the sites link.
 
-The link for the deployed site is - https://anthonyjn08.github.io/Kobe-Bryant-LA-Lakers-Legend/index.html.
+The link for the deployed site is - [Kobe Bryant: LA Lakers Legend](https://anthonyjn08.github.io/Kobe-Bryant-LA-Lakers-Legend/index.html).
+
+### **Credits**
+
+#### **Content**
+
+* The vast majority of the index.html content came from the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page, although as a fan of Kobe and basketball some of the content was recalled from my own knowledge.
+* As with the index.html page, the vast majority of content from the career-achievements.html page came from the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page with some content from my own knowledge.
+* The career-stats.html content for the regular season and playoffs came from [Basketball Reference](https://www.basketball-reference.com/players/b/bryanko01.html) whilst the content for the Kobe Bryant: 8 vs 24 came from [ESPN](https://www.espn.com/espn/feature/story/_/id/29682794/kobe-bryant-two-legendary-nba-careers-no-8-no-24).
+The competition.html content is a question from my knowledge of Kobe Bryant, although reference to the change of jersey number change can also be found on the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page.
