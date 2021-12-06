@@ -138,4 +138,4 @@ The competition.html content is a question from my knowledge of Kobe Bryant, alt
 
 **Competiton.html**
 
-* The background image in the form is taken from [ESPN.com](https://www.espn.com/espn/feature/story/_/id/29682794/kobe-bryant-two-legendary-nba-careers-no-8-no-24).
+* The background image for the form is taken from [ESPN.com](https://www.espn.com/espn/feature/story/_/id/29682794/kobe-bryant-two-legendary-nba-careers-no-8-no-24).

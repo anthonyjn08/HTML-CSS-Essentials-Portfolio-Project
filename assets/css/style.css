@@ -24,14 +24,14 @@ h1 {
     color: #552583;
 }
 
-h2,h3,h4 {
+.underline {
     font-family: 'Quicksand', sans-serif;
     text-transform: uppercase;
     color: #552583;
     text-decoration: underline #FDB927;
 }
 
-h1,h2,h3,p {
+h2,h3,p {
     margin-bottom: 1.5rem;
 }
 
@@ -65,7 +65,7 @@ h1,h2,h3,p {
 
 #menu li {
     list-style-type: none;
-    margin-right: 3rem;
+    margin-right: 2rem;
     font-weight: bold;
     display: inline;
 }
