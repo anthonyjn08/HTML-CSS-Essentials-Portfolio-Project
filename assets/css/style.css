@@ -425,14 +425,14 @@ th, td {
     /* hero image */
 
     #hero-outer {
-        height: 8rem;
+        height: 6.5rem;
         width: 100%;
         clear: both;
         position: relative;
     }
     
     #hero-image { 
-        height: 8rem;
+        height: 6.5rem;
         background-size: contain;
     }
 
@@ -440,7 +440,7 @@ th, td {
         font-size: 0.3rem;
         width: 100%;
         height: 0.4rem;
-        bottom: 1rem;
+        bottom: 0.2rem;
         text-align: center;
     }
 
@@ -498,14 +498,14 @@ th, td {
     /*hero image*/
 
     #hero-outer {
-        height: 6rem;
+        height: 5rem;
         width: 100%;
         clear: both;
         position: relative;
     }
     
     #hero-image { 
-        height: 6rem;
+        height: 5rem;
         background-size: contain;
     }
 
