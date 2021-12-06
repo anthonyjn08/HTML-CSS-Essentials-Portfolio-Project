@@ -80,7 +80,25 @@ This page has two sections. Career Achievments and Career Highlights
 
 ## **Testing**
 
-I've tested the site using Chrome, Chrome Dev, Internet Explorer and Microsoft Edge. I have used the developer tools in Chrome, Chrome Dev and Edge to simulate various screen sizes and devices. I have also tested the site on the OnePlus 9 pro mobile device and Microsoft Surface Pro 7 tablet. The only difference I found when testing across the various browsers was Internet Explorer where some styling elements did not display as intended, such as font-sizes and heading underlining. Despite this, the website still functioned as normal and was responsive to different resolutions when the Internet Explorer window was resized.
+To test cross-compatability I've tested the site using various browsers on desktop and Safari on Apple mobile devices:
+* Chrome
+* Chrome Dev
+* Firefox 
+* Microsoft Edge
+* Safari
+
+I have also tested the site across various devices.
+
+* Windows 10 PC
+* Windows Surface Pro 7
+* Samsung A6 android tablet
+* OnePlus 9 pro android phone
+* Apple Ipad 7th Gen
+* Apple Iphone 12
+
+In addition I have used devtools to simulate various different screen sizes down to 320px.
+
+In testing on all these browsers and devices I found the site worked as intended with one minor styling difference on Apple's Safari browser. The headers (h2-h4) in the main body content of the website have been styled to have a yellow underline, this was displayed on all browser apart from Safari. This however did not stop the rest of the website functioning as normal.
 
 ### **Validator Testing**
 
