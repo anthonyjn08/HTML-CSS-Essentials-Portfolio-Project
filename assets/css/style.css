@@ -299,6 +299,27 @@ th, td {
         text-align: center;
     }
 
+    /* logo */
+
+    #logo {
+        height: 3rem;
+    }
+
+    /* nav bar and links */
+
+    #menu {
+        /*font-family: 'Quicksand', sans-serif;*/
+        font-size: 0.8rem;
+    }
+
+    #menu li {
+        margin-right: 1rem;
+    }
+
+    #logo, #menu {
+        line-height: 3rem;
+    }
+
     /* Kobe #8 vs #24 */
 
     /* The code used for this section of the @media query was taken from the Love Running project */
