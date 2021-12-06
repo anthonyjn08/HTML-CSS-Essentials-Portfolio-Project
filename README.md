@@ -100,6 +100,10 @@ In addition I have used devtools to simulate various different screen sizes down
 
 In testing on all these browsers and devices I found the site worked as intended with one minor styling difference on Apple's Safari browser. The headers (h2-h4) in the main body content of the website have been styled to have a yellow underline, this was displayed on all browser apart from Safari. This however did not stop the rest of the website functioning as normal.
 
+### **Bugs and Fixes**
+
+
+
 ### **Validator Testing**
 
 **HTML**
