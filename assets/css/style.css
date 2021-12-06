@@ -430,7 +430,7 @@ th, td {
     /* iframe */
 
     iframe {
-        width: 20rem;
+        width: 100%;
         height: auto;
     }
 }
