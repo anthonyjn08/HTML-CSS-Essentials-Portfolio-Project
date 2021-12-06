@@ -116,6 +116,12 @@ During development of the website I came across some bugs which I had to resolve
     * ***Solution***
         * Used float left on centre div, whilst not ideal as the div isn't 100% central it allowed all three divs be displayed alongside each other.
 
+3. **Itended Outcome** - On mobile devices, the youtube videos would shrink to fit the screen.
+    *   ***Issue Found*** - 
+        * On smaller devices, the career-achiements page the youtube videos overlapped the device resulting in some overflow.
+    * ***Solution***
+        * Used width 100% in css code to fit videos within the page margins.
+
 ### **Validator Testing**
 
 **HTML**
