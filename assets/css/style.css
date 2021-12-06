@@ -275,14 +275,14 @@ th, td {
     /* hero image */
 
     #hero-outer {
-        height: 15rem;
+        height: 14rem;
         width: 100%;
         clear: both;
         position: relative;
     }
 
     #hero-image { 
-        height: 15rem;
+        height: 14rem;
         width: 100%;
         background-size: contain;
     }
@@ -297,8 +297,9 @@ th, td {
 
     /* logo */
 
-    #logo {
+    .logo {
         height: 3rem;
+        font-size: 1.2rem;
     }
 
     /* nav bar and links */
@@ -311,7 +312,7 @@ th, td {
         margin-right: 1rem;
     }
 
-    #logo, #menu {
+    .logo, #menu {
         line-height: 3rem;
     }
 
@@ -347,9 +348,17 @@ th, td {
         margin: 1rem 5% 0 5%;   
     }
 
+    /* logo */
+
+    .logo {
+        height: 1rem;
+        font-size: 0.8rem;
+        line-height: 1rem;
+    }
+
     /* nav bar */
 
-    #menu li {
+    #menu {
         margin-right: 1rem;
         margin-bottom: 0.5rem;
         line-height: 1rem;
