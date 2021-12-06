@@ -102,7 +102,19 @@ In testing on all these browsers and devices I found the site worked as intended
 
 ### **Bugs and Fixes**
 
+During development of the website I came across some bugs which I had to resolve.
 
+1. **Intended Outcome** -  A Kobe Bryant quote to be displayed across the bottom of the Hero Image.
+    * ***Issue Found***
+        * On smaller devices the quote would drop off the bottom of the image as the hero image was shrinking smaller than expected on smaller devices
+    * ***Solution***
+        * The hero image was increased in size and the quote re-aligned to the new hero image size.
+
+2. **Intended Outcome** - Three equal sized divs to be displayed across the width of the page in the Kobe-8-24 section on the career-stats page.
+    * ***Issue Found***
+        * Using margin '0 auto' on the centre div, the div on the right side would display below the left and centre divs.
+    * ***Solution***
+        * Used float left on centre div, whilst not ideal as the div isn't 100% central it allowed all three divs be displayed alongside each other.
 
 ### **Validator Testing**
 
