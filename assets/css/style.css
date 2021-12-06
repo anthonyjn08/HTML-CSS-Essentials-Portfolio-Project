@@ -43,9 +43,10 @@ h2,h3,p {
 
 /* logo */
 
-#logo {
+.logo {
     height: 4.5rem;
     float: left;
+    font-size: 1.5rem;
 }
 
 /* nav bar and links */
@@ -55,7 +56,7 @@ h2,h3,p {
     font-size: 1.2rem;
 }
 
-#logo, #menu {
+.logo, #menu, #logo-text {
     line-height: 4.5rem;
 }
 
@@ -420,6 +421,27 @@ th, td {
         float: right;
     }
 
+    /* footer */
+
+    footer {
+        height: 5rem;
+    }
+
+    footer ul {
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    footer li {
+        /*display: flex;
+        justify-content: center;*/
+        width: 100%;
+        font-size: 0.8rem;
+        text-align: center;
+        /*margin: auto;*/
+     }
+
     /* images */
 
     img {
@@ -433,8 +455,10 @@ th, td {
         height: auto;
     }
 
+    /* career stats */
+
     #kobe-8-24 {
-        height: 80rem;
+        height: 72rem;
     }
 }
 
@@ -452,5 +476,11 @@ th, td {
     #hero-image { 
         height: 6rem;
         background-size: contain;
+    }
+
+    /* career stats */
+
+    #kobe-8-24 {
+        height: 80rem;
     }
 }
