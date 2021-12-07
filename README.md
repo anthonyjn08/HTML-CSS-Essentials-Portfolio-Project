@@ -31,6 +31,7 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 
 * The hero image features a picture of Bryant, his name Mamba logo and the letters HOF(Hall of Fame). Having the picture and name staright away gives users a visual aid to the content of the site.
 * I've overlayed a Bryant quote on the hero image - "Dedication makes dreams come true". Bryant was known for his hard work in the gym during practice and would often be the first in and last out. This quote sums up his dedication to the sport.
+* There are various @media queries to ensure the hero-image fits on screens of all sizes, tested down to 320px.
 
 ### **Home Page**
 
@@ -62,8 +63,8 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 ### **Footer**
 
 * The footer has some links to various external sites, Kobe Bryant's Wikipedia page, the Mamba & Mambacita Foundation created alongside his wife and the NBA.com Tribute page.
-* All link open a new browser tab and the html code has the appropriate aria-labels.
 * The colours used match the yellow and purple scheme used throughout the site.
+* All links open a new browser tab and the html code has the appropriate aria-labels.
 
 ## **Testing**
 
@@ -142,7 +143,15 @@ The link for the deployed site is - [Kobe Bryant: LA Lakers Legend](https://anth
 * The vast majority of the index.html content came from the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page, although as a fan of Kobe and basketball some of the content was recalled from my own knowledge.
 * As with the index.html page, the vast majority of content from the career-achievements.html page came from the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page with some content from my own knowledge.
 * The career-stats.html content for the regular season and playoffs came from [Basketball-Reference.com](https://www.basketball-reference.com/players/b/bryanko01.html) whilst the content for the Kobe Bryant: 8 vs 24 came from [ESPN](https://www.espn.com/espn/feature/story/_/id/29682794/kobe-bryant-two-legendary-nba-careers-no-8-no-24).
-The competition.html content is a question from my knowledge of Kobe Bryant, although reference to the change of jersey number change can also be found on the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page.
+* The competition.html content is a question from my knowledge of Kobe Bryant, although reference to the change of jersey number change can also be found on the [Kobe Bryant wiki](https://en.wikipedia.org/wiki/Kobe_Bryant) page.
+* The basketball icons in the navigation bar are taken from [Font Awesome](https://fontawesome.com/)
+* The fonts used in the content for the page are imported from [Google Fonts](https://fonts.google.com/)
+
+#### **Code**
+
+* For one of my @media queries I used code from Code Institutes Love Running project. This is found on lines 327 to 338 in the style.css file and is commented above the code. Any code I would've written myself would be exactly the same.
+* The rest of the code has been influenced by the Love Running project and also Coders Coffeehouse and may have some similarities but I have tried to deviate as much as possible from the code for these.
+
 
 #### **Media**
 
