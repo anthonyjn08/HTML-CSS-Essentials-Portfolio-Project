@@ -10,13 +10,27 @@ The aim of my site is to give people a look into the career and also small look 
 
 When I decided on the colour scheme, I wanted to keep it simple but also represent the LA Laker colours. Bryant was a Lakers fan and spent his entire career there. The colours associated with the Lakers are purple (#552583) and yellow/gold (#FDB927). The navigaton bar links are purple, with the active page having a yellow underline. Navigation links also turn yellow when being hovered over. Headings h2 to h4 also have similar styling, with the text being purple with a yellow underline.
 
+### **Logo**
+
+![Site Logo](docs/screenshots/site-logo.jpg)
+
+* The logo features Kobe Bryant's Black Mamba logo and the sites title - Kobe Bryant: LA Lakers Legend. I did consider using a different font for the title but decided to keep it consistent with the navigation menu but with larger text.
+* Clicking either of these takes users back to the homepage.
+
 ### **Navigation Bar**
 
-* The Navigation Bar is identical on all 4 pages to keep the appearance consistent.
-* The left of the Navigation bar features Kobe Bryant's Black Mamba logo. Clicking this image takes users back to the homepage.
-* The right of the Navigation bar features links to the different pages on the website - home, career achievements, career stats and competiton.
-* Each link features a visual aid so users can easily see what page they're currently on. This is achieve by underlining the link and a basketball icon on either side of the active page.
+![Navigation Bar](docs/screenshots/nav-bar.jpg)
+
+* The Navigation Bar is identical on all 4 pages to keep the appearance consistent and features links to the different pages on the website - home, career achievements, career stats and competition.
+* The link for the active page features a visual aid so users can easily see what page they're currently on. This is achieved by underlining the link and a basketball icon on either side of the active page.
 * Each link opens the correct page as intended.
+
+### **Hero Image**
+
+![hero image screenshot](docs/screenshots/hero-image.jpg)
+
+* The hero image features a picture of Bryant, his name Mamba logo and the letters HOF(Hall of Fame). Having the picture and name staright away gives users a visual aid to the content of the site.
+* I've overlayed a Bryant quote on the hero image - "Dedication makes dreams come true". Bryant was known for his hard work in the gym during practice and would often be the first in and last out. This quote sums up his dedication to the sport.
 
 ### **Home Page**
 
