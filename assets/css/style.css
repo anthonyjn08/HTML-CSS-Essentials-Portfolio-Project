@@ -95,7 +95,7 @@ h2,h3,p {
 }
 
 #hero-image { 
-    background: url('../images/kobebanner.jpg') no-repeat center center;
+    background: url('../images/hero-image.jpg') no-repeat center center;
     height: 31rem;
     width: 100%;
 }
@@ -211,7 +211,7 @@ th, td {
 /* competition */
 
 #competition {
-    background-image:  url('../images/kobe_8-vs-24.png');
+    background-image:  url('../images/kobe-8-vs-24-competition-background.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
