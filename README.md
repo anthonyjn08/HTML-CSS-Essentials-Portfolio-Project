@@ -3,11 +3,12 @@
 The aim of my site is to give people a look into the career and also small look into the life of basketball legend Kobe Bryant. Kobe Bryant was an American Professional basketball player, who spent his entire 20 year career playing for the Los Angeles Lakers in the NBA. Bryant was one of few players to make the jump directly from high school direct to the NBA. His game was modelled on his idol Michael Jordan. By the end of his career, he was looked upon as his generations Michael Jordan and his influence on younger generations is just as strong. The website is aimed at fans of Kobe, the LA Lakers basketball team, NBA fans or just people, such as younger, newer fans of the game looking to gain knowledge of Bryant and his career.
 
 ![Am I responsive screentshot](docs/screenshots/am-i-responsive.jpg)
+
 ## **Features**
 
 ### **Colour Scheme**
 
-When I decided on the colour scheme, I wanted to keep it simple but also represent the LA Laker colours. Bryant was a Lakers fan and spent his entire career there. The colours associated with the Lakers are purple and yellow. The navigaton bar links are purple, with the active page having a yellow underline. Navigation links also turn yellow when being hovered over. Headings h2 to h4 also have similar styling, with the text being purple with a yellow underline.
+When I decided on the colour scheme, I wanted to keep it simple but also represent the LA Laker colours. Bryant was a Lakers fan and spent his entire career there. The colours associated with the Lakers are purple (#552583) and yellow/gold (#FDB927). The navigaton bar links are purple, with the active page having a yellow underline. Navigation links also turn yellow when being hovered over. Headings h2 to h4 also have similar styling, with the text being purple with a yellow underline.
 
 ### **Navigation Bar**
 
@@ -15,56 +16,26 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 * The left of the Navigation bar features Kobe Bryant's Black Mamba logo. Clicking this image takes users back to the homepage.
 * The right of the Navigation bar features links to the different pages on the website - home, career achievements, career stats and competiton.
 * Each link features a visual aid so users can easily see what page they're currently on. This is achieve by underlining the link and a basketball icon on either side of the active page.
+* Each link opens the correct page as intended.
 
 ### **Home Page**
 
 * The home page provides a small biography of Kobe Bryant allowing the user to learn more about his life and basketball career.
 * Each section has a header detailing the contents of the section.
-
-#### **Kobe Bryant Biography section**
-
-* This section gives a brief introduction to Kobe Bryant.
-* The image shows Kobe with his 5 NBA Chmapionships.
-
-#### **Early Life section**
-
-* In this section, I cover Bryant's early life in Philadelphia, the familys move to Italy and return to Philadelphia.
-
-#### **High School Section**
-
-* In this section, I cover Bryant's high school journey from the unsuccessful first season to winning the State Championship in his final season.
-
-#### **Professional Career**
-
-* In this section, I cover Bryant's professional career, the NBA Championships, the MVP awards and his final season.
-
-#### **Off The Court**
-
-* In this section, I cover Bryant's off the court life, from his short animated film and TV appearances, failed music career and his sexual assault case.
-
-#### **Death**
-
-* In this section, I cover the accident which resulted in his death.
+* Some sections have an image relevant to the content of that section to break up the paragraphs of text..
 
 ### **Career Achievements Page**
 
-This page has two sections. Career Achievments and Career Highlights
-
-#### **Career Achievements**
-
-* This section looks at what Bryant achieved throughout his proffesional career.
-* It uses a list structre to breakdown his achievments.
-
-#### **Career Highlights**
-
-* This section features a date ordered list.
-* It details some of the high points of Bryant's career at that point such as NBA Championship wins, scoring career highs and his dunk contest win.
+* This page has two sections. Career Achievments and Career Highlights
+* This page looks at what Bryant achieved throughout his proffesional career such as his awards and championship wins.
+* It uses a list structre to display his achievments so they can be read and broken down easily.
+* The career highlights section features a list which is date ordered. As this is in order, an ordered list could've been used but I felt the style of the unordered list was better suited.
 * I added some videos of the highlighs to break up the list and give the users a view into some of these highpoints.
 
 ### **Career Statistics Page**
 
-* This page features content showing Bryants career averages for both the regular season and the playoffs in table format.
-* It also compares his career statistics whilst wearing his two jersey numbers; number 8 and number 24. This is also in table format, with an image either side depicting the two stages of his career.
+* This page features content showing Bryants career averages for both the in table format so the information is presented in a clear and readable
+* It also compares his career statistics whilst wearing his two jersey numbers; number 8 and number 24. This table has an image either side depicting the two stages of his career.
 * At the bottom, there is a glossary to explain the abbrieviations used on the page.
 
 ### **Competiton Page**
@@ -77,6 +48,7 @@ This page has two sections. Career Achievments and Career Highlights
 ### **Footer**
 
 * The footer has some links to various external sites, Kobe Bryant's Wikipedia page, the Mamba & Mambacita Foundation created alongside his wife and the NBA.com Tribute page.
+* All link open a new browser tab and the html code has the appropriate aria-labels.
 * The colours used match the yellow and purple scheme used throughout the site.
 
 ## **Testing**
@@ -100,6 +72,8 @@ I have also tested the site across various devices.
 In addition I have used devtools to simulate various different screen sizes down to 320px.
 
 In testing on all these browsers and devices I found the site worked as intended with one minor styling difference on Apple's Safari browser. The headers (h2-h4) in the main body content of the website have been styled to have a yellow underline, this was displayed on all browser apart from Safari. This however did not stop the rest of the website functioning as normal.
+
+The form section on the competition page was tested to ensure that the required fields are entered, and in the correct format before the form is submitted.
 
 ### **Bugs and Fixes**
 
