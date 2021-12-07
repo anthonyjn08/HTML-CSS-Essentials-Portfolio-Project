@@ -18,16 +18,23 @@ body {
 
 /* headings and paragraphs */
 
-h1 {
+.font-quicksand {
     font-family: 'Quicksand', sans-serif;
+}
+
+.upper-text {
     text-transform: uppercase;
+}
+
+.text-purple {
     color: #552583;
 }
 
+.text-yellow {
+    color: #FDB927;
+}
+
 .underline {
-    font-family: 'Quicksand', sans-serif;
-    text-transform: uppercase;
-    color: #552583;
     text-decoration: underline #FDB927;
 }
 
@@ -52,7 +59,6 @@ h2,h3,p {
 /* nav bar and links */
 
 #menu {
-    font-family: 'Quicksand', sans-serif;
     font-size: 1.2rem;
 }
 
@@ -73,8 +79,7 @@ h2,h3,p {
 
 #menu a {
     text-decoration: none;
-    color: #552583;
-}
+ }
 
 #menu a:hover {
     color: #FDB927;
@@ -101,13 +106,9 @@ h2,h3,p {
 }
 
 #hero-text {
-    font-family: 'Quicksand', sans-serif;
-    text-transform: uppercase;
-    color: #FDB927;
     position: absolute;
     height: 1rem;
     width: 100%;
-    text-align: center;
     bottom: 1rem;
 }
 
@@ -137,12 +138,11 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: #552583;
- }
+}
 
  footer ul {
      padding-top: 2rem;
- }
+}
 
 footer li {
     display: inline;
