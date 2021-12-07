@@ -35,11 +35,15 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 
 ### **Home Page**
 
+![Home Page](docs/screenshots/home-page.jpg)
+
 * The home page provides a small biography of Kobe Bryant allowing the user to learn more about his life and basketball career.
 * Each section has a header detailing the contents of the section.
-* Some sections have an image relevant to the content of that section to break up the paragraphs of text..
+* Some sections have an image relevant to the content of that section to break up the paragraphs of text.
 
 ### **Career Achievements Page**
+
+![Career Achievements Page](docs/screenshots/career-achievements-page.jpg)
 
 * This page has two sections. Career Achievments and Career Highlights
 * This page looks at what Bryant achieved throughout his proffesional career such as his awards and championship wins.
@@ -49,11 +53,15 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 
 ### **Career Statistics Page**
 
+![Career Statistics Page](docs/screenshots/career-stats-page.jpg)
+
 * This page features content showing Bryants career averages for both the in table format so the information is presented in a clear and readable
 * It also compares his career statistics whilst wearing his two jersey numbers; number 8 and number 24. This table has an image either side depicting the two stages of his career.
 * At the bottom, there is a glossary to explain the abbrieviations used on the page.
 
 ### **Competiton Page**
+
+![Competition Page](docs/screenshots/competition-page.jpg)
 
 * This page features a form for users to complete to enter a competition.
 * The form consists of text, email and number input fields and three radio buttons.
