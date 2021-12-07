@@ -70,7 +70,9 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 
 ### **Footer**
 
-* The footer has some links to various external sites, Kobe Bryant's Wikipedia page, the Mamba & Mambacita Foundation created alongside his wife and the NBA.com Tribute page.
+![Footer](docs/screenshots/footer.jpg)
+
+* The footer has some links to various external sites, Kobe Bryant's Wikipedia page, the Mamba & Mambacita Foundation created in memory of Braynt and his daughter Gianna and the NBA.com Kobe Bryant Tribute page.
 * The colours used match the yellow and purple scheme used throughout the site.
 * All links open a new browser tab and the html code has the appropriate aria-labels.
 
