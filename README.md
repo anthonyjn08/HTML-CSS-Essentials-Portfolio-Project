@@ -6,9 +6,11 @@ The aim of my site is to give people a look into the career and also small look 
 
 ## **Features**
 
-### **Colour Scheme**
+### **Colour Scheme and Font**
 
 When I decided on the colour scheme, I wanted to keep it simple but also represent the LA Laker colours. Bryant was a Lakers fan and spent his entire career there. The colours associated with the Lakers are purple (#552583) and yellow/gold (#FDB927). The navigaton bar links are purple, with the active page having a yellow underline. Navigation links also turn yellow when being hovered over. All headings have similar styling being purple with headings h2 to h4 also having a yellow underline.
+
+I have used two fonts on the website. Quicksand for headers and Roboto for the main content. I found Roboto easy on the eye when reading the content and Quicksand compliments the style of Roboto.
 
 ### **Logo**
 
@@ -74,7 +76,7 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 
 * The footer has some links to various external sites, Kobe Bryant's Wikipedia page, the Mamba & Mambacita Foundation created in memory of Braynt and his daughter Gianna and the NBA.com Kobe Bryant Tribute page.
 * The colours used match the yellow and purple scheme used throughout the site.
-* All links open a new browser tab and the html code has the appropriate aria-labels.
+
 
 ## **Testing**
 
@@ -98,7 +100,11 @@ In addition I have used devtools to simulate various different screen sizes down
 
 In testing on all these browsers and devices I found the site worked as intended with one minor styling difference on Apple's Safari browser. The headers (h2-h4) in the main body content of the website have been styled to have a yellow underline, this was displayed on all browser apart from Safari. This however did not stop the rest of the website functioning as normal.
 
-The form section on the competition page was tested to ensure that the required fields are entered, and in the correct format before the form is submitted.
+All links in the navigation bar open the correct page of the website.
+
+All links in the footer open a new browser tab and the html code has the appropriate aria-labels.
+
+The form section on the competition page was tested to ensure that the required fields are entered, and in the correct format before the form is submitted. When entering the correct details the submission button clears the form.
 
 ### **Bugs and Fixes**
 
