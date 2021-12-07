@@ -47,7 +47,7 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 
 * This page has two sections. Career Achievments and Career Highlights
 * This page looks at what Bryant achieved throughout his proffesional career such as his awards and championship wins.
-* It uses a list structre to display his achievments so they can be read and broken down easily.
+* It uses a list structre to display his achievments so they can be read and understood easily.
 * The career highlights section features a list which is date ordered. As this is in order, an ordered list could've been used but I felt the style of the unordered list was better suited.
 * I added some videos of the highlighs to break up the list and give the users a view into some of these highpoints.
 
@@ -56,7 +56,7 @@ When I decided on the colour scheme, I wanted to keep it simple but also represe
 ![Career Statistics Page](docs/screenshots/career-stats-page.jpg)
 
 * This page features content showing Bryants career averages for both the in table format so the information is presented in a clear and readable
-* It also compares his career statistics whilst wearing his two jersey numbers; number 8 and number 24. This table has an image either side depicting the two stages of his career.
+* It also  has a section that compares his career statistics whilst wearing his two jersey numbers; number 8 and number 24. This table has an image either side depicting the two stages of his career.
 * At the bottom, there is a glossary to explain the abbrieviations used on the page.
 
 ### **Competiton Page**
