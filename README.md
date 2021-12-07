@@ -1,6 +1,6 @@
 # **Kobe Bryant - LA Laker Legend**
 ## **Aim of the site**
-The aim of my site is to give people a look into the career and also small look into the life of basketball legend Kobe Bryant. Kobe Bryant was an American Professional basketball player, who spent his entire 20 year career playing for the Los Angeles Lakers in the NBA. Bryant was one of few players to make the jump directly from high school direct to the NBA. His game was modelled on his idol Michael Jordan. By the end of his career, he was looked upon as his generations Michael Jordan and his influence on younger generations is just as strong. The website is aimed at fans of Kobe, the LA Lakers basketball team, NBA fans or just people, such as younger, newer fans of the game looking to gain knowledge of Bryant and his career.
+The aim of my site is to give people a look into the career and also small look into the life of basketball legend Kobe Bryant. Kobe Bryant was an American Professional basketball player, who spent his entire 20 year career playing for the Los Angeles Lakers in the NBA. Bryant was one of few players to make the jump directly from high school direct to the NBA. His game was modelled on his idol Michael Jordan. By the end of his career, he was looked upon as his generation's Michael Jordan and his influence on younger generations is just as strong. The website is aimed at fans of Kobe, the LA Lakers basketball team, NBA fans or just people, such as younger, newer fans of the game looking to gain knowledge of Bryant and his career.
 
 ![Am I responsive screentshot](docs/screenshots/am-i-responsive.jpg)
 
@@ -8,7 +8,7 @@ The aim of my site is to give people a look into the career and also small look 
 
 ### **Colour Scheme**
 
-When I decided on the colour scheme, I wanted to keep it simple but also represent the LA Laker colours. Bryant was a Lakers fan and spent his entire career there. The colours associated with the Lakers are purple (#552583) and yellow/gold (#FDB927). The navigaton bar links are purple, with the active page having a yellow underline. Navigation links also turn yellow when being hovered over. Headings h2 to h4 also have similar styling, with the text being purple with a yellow underline.
+When I decided on the colour scheme, I wanted to keep it simple but also represent the LA Laker colours. Bryant was a Lakers fan and spent his entire career there. The colours associated with the Lakers are purple (#552583) and yellow/gold (#FDB927). The navigaton bar links are purple, with the active page having a yellow underline. Navigation links also turn yellow when being hovered over. All headings have similar styling being purple with headings h2 to h4 also having a yellow underline.
 
 ### **Logo**
 
