@@ -144,7 +144,38 @@ For CSS testing I used the Jigsaw validator found at https://jigsaw.w3.org/css-v
 
 **Lighthouse Testing**
 
-As well as testing the html and css code I also ran tests using Lighthouse in Chrome Dev.
+As well as testing the html and css code I also ran tests using Lighthouse in Chrome Dev. I used Chrome Dev as there were no browser extensions installed which could affect the result.
+
+**Home Page**
+
+*Desktop Version*
+
+![Home Page Lighthouse Desktop Report](docs/screenshots/index-page-desktop-lighthouse-report.jpg)
+
+* The desktop version scored 100 across all test categories.
+* Initial best practice scores were lower due to images not having a specified height and width. Once these were added the score improved.
+
+*Mobile Version*
+
+![Home Page Lighthouse Mobile Report](docs/screenshots/index-page-mobile-lighthouse-report.jpg)
+
+* Scores were similar to desktop scores.
+* For SEO the score is brought down by the nav bar links size, which lighthouse says overlaps. To fix this I could implement a burger style menu in the future.
+
+**Career Achievements**
+
+*Desktop Version*
+
+![Career Achievements Lighthouse Desktop Report](docs/screenshots/career-achievements-page-desktop-lighthouse-report.jpg)
+
+* Scores were similar to home page score.
+* Best practice score brought down by an issue with an embedded youtube video which I was unfortunately unable to resolve.
+
+*Mobile Version*
+
+![Career Achievements Lighthouse Mobile Report](docs/screenshots/career-achievements-page-mobile-lighthouse-report.jpg)
+
+* SEO scores again affected by the Nav Bar
 
 ### **Deployment**
 
