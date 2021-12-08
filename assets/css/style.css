@@ -394,6 +394,7 @@ th, td {
 
     img {
         max-width: 25rem;
+        height: auto;
     }
 }
 
