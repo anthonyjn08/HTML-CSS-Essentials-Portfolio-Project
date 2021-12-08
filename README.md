@@ -169,7 +169,7 @@ As well as testing the html and css code I also ran tests using Lighthouse in Ch
 ![Career Achievements Lighthouse Desktop Report](docs/screenshots/career-achievements-page-desktop-lighthouse-report.jpg)
 
 * Scores were similar to home page score.
-* Best practice score brought down by an issue with an embedded youtube video which I was unfortunately unable to resolve, although for some reason this did not affect mobile score.
+* Best practice score brought down by an issue with an embedded youtube video which I was unfortunately unable to resolve. A quick google search hinted this could be a javascript issue which I unfortunately do not have knowledge of at this point. For some reason this did not affect mobile score.
 
 *Mobile Version*
 
@@ -196,6 +196,10 @@ As well as testing the html and css code I also ran tests using Lighthouse in Ch
 ![Competition Lighthouse Mobile Report](docs/screenshots/competition-page-mobile-lighthouse-report.jpg)
 
 * For some reason I was unable to replicate, the nav var issue affecting other scores was slightly reduced on the competition page despite the code being exactly the same across all pages.
+
+*General Lighthouse Testing*
+
+I found that performance scores fluctuated on each run for reasons unknown to me.
 
 ### **Deployment**
 
