@@ -160,7 +160,7 @@ As well as testing the html and css code I also ran tests using Lighthouse in Ch
 ![Home Page Lighthouse Mobile Report](docs/screenshots/index-page-mobile-lighthouse-report.jpg)
 
 * Scores were similar to desktop scores.
-* For SEO the score is brought down by the nav bar links size, which lighthouse says overlaps. To fix this I could implement a burger style menu in the future.
+* For SEO the score is brought down by the nav bar links size, which lighthouse says overlaps. To fix this I could implement a burger style menu in the future. This featured across the mobile tests for all pages.
 
 **Career Achievements**
 
@@ -169,13 +169,33 @@ As well as testing the html and css code I also ran tests using Lighthouse in Ch
 ![Career Achievements Lighthouse Desktop Report](docs/screenshots/career-achievements-page-desktop-lighthouse-report.jpg)
 
 * Scores were similar to home page score.
-* Best practice score brought down by an issue with an embedded youtube video which I was unfortunately unable to resolve.
+* Best practice score brought down by an issue with an embedded youtube video which I was unfortunately unable to resolve, although for some reason this did not affect mobile score.
 
 *Mobile Version*
 
 ![Career Achievements Lighthouse Mobile Report](docs/screenshots/career-achievements-page-mobile-lighthouse-report.jpg)
 
-* SEO scores again affected by the Nav Bar
+**Career Stats**
+
+*Desktop Version*
+
+![Career Stats Lighthouse Desktop Report](docs/screenshots/career-stats-page-desktop-lighthouse-report.jpg)
+
+*Mobile Version*
+
+![Career Stats Lighthouse Mobile Report](docs/screenshots/career-stats-page-mobile-lighthouse-report.jpg)
+
+**Competiton**
+
+*Desktop Version*
+
+![Competition Lighthouse Desktop Report](docs/screenshots/competition-page-desktop-lighthouse-report.jpg)
+
+*Mobile Version*
+
+![Competition Lighthouse Mobile Report](docs/screenshots/competition-page-mobile-lighthouse-report.jpg)
+
+* For some reason I was unable to replicate, the nav var issue affecting other scores was slightly reduced on the competition page despite the code being exactly the same across all pages.
 
 ### **Deployment**
 
