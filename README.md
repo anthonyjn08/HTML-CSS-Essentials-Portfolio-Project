@@ -142,6 +142,10 @@ I used the W3C validator found at https://validator.w3.org/ to test my HTML code
 
 For CSS testing I used the Jigsaw validator found at https://jigsaw.w3.org/css-validator. There were no errors found when passing the code through.
 
+**Lighthouse Testing**
+
+As well as testing the html and css code I also ran tests using Lighthouse in Chrome Dev.
+
 ### **Deployment**
 
 The page was deployed on Github pages. The procedure followed was:
